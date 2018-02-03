@@ -1,0 +1,46 @@
+
+/* A CSS rule describes how certain elements should be styled. */
+div {
+    border: 2px solid black;
+    border-radius: 8px;
+    height: 60px;
+    width: 60px;
+
+    text-align: center;
+    /* If time allows, we'll come back! */
+    display: inline-block;
+    margin: 5px;
+}
+
+/* A rule for a CLASS of 'active' */
+.active {
+    opacity: 0.3;
+}
+
+.a {
+    background-color: lightsalmon;
+}
+
+.s {
+    background-color: lawngreen;
+}
+
+.d {
+    background-color: navajowhite;
+}
+
+.f {
+    background-color: turquoise;
+}
+
+.g {
+    background-color: fuchsia;
+}
+
+.h {
+    background-color: seagreen;
+}
+
+.j {
+    background-color: peru;
+}
